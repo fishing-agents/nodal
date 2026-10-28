@@ -1,23 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="168" viewBox="0 0 525.38 167.71" class="nodal">
-<rect x="0" y="0" width="525.38" height="167.71" fill="#282a36"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="573" height="168" viewBox="0 0 572.88 167.71" class="nodal">
+<rect x="0" y="0" width="572.88" height="167.71" fill="#282a36"/>
 <g class="nodal-groups">
 
 </g>
 <g class="nodal-edges">
 <g id="e0" class="nodal-edge">
-<path d="M 122.95 75.71 L 198.47 75.71" fill="none" stroke="#bd93f9" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="round" class="nodal-line"/>
-<rect x="127.14" y="67.84" width="67.14" height="15.75" rx="3" fill="#282a36" fill-opacity="0.9" class="nodal-label-bg"/>
-<text x="160.71" y="79.29" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal">places  1 : N</text>
+<path d="M 122.95 75.71 L 222.22 75.71" fill="none" stroke="#bd93f9" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<g class="nodal-head">
+<polyline points="222.22,79.62 212.92,75.71 222.22,71.8" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+<circle cx="208.27" cy="75.71" r="2.34" fill="#282a36" stroke="#bd93f9" stroke-width="1.5"/>
+</g>
+<g class="nodal-head">
+<polyline points="122.95,71.8 132.25,75.71 122.95,79.62" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+<circle cx="136.9" cy="75.71" r="2.34" fill="#282a36" stroke="#bd93f9" stroke-width="1.5"/>
+</g>
+<rect x="173.63" y="67.84" width="37.78" height="15.75" rx="3" fill="#282a36" fill-opacity="0.9" class="nodal-label-bg"/>
+<text x="192.52" y="79.29" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal">places</text>
 </g>
 <g id="e1" class="nodal-edge">
-<path d="M 325.73 57.48 L 401.25 57.48" fill="none" stroke="#bd93f9" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="round" class="nodal-line"/>
-<rect x="325.3" y="49.61" width="76.38" height="15.75" rx="3" fill="#282a36" fill-opacity="0.9" class="nodal-label-bg"/>
-<text x="363.49" y="61.06" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal">contains  1 : N</text>
+<path d="M 349.48 57.48 L 448.75 57.48" fill="none" stroke="#bd93f9" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<g class="nodal-head">
+<polyline points="448.75,61.39 439.45,57.48 448.75,53.57" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+<polyline points="436.66,61.39 436.66,53.57" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+</g>
+<g class="nodal-head">
+<polyline points="349.48,53.57 358.78,57.48 349.48,61.39" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+<polyline points="361.57,53.57 361.57,61.39" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+</g>
+<rect x="375.61" y="49.61" width="47.02" height="15.75" rx="3" fill="#282a36" fill-opacity="0.9" class="nodal-label-bg"/>
+<text x="399.12" y="61.06" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal">contains</text>
 </g>
 <g id="e2" class="nodal-edge">
-<path d="M 122.95 126.21 L 178.95 126.21" fill="none" stroke="#bd93f9" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4" class="nodal-line"/>
-<rect x="121.69" y="118.34" width="58.53" height="15.75" rx="3" fill="#282a36" fill-opacity="0.9" class="nodal-label-bg"/>
-<text x="150.95" y="129.79" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal">uses  1 : N</text>
+<path d="M 122.95 126.21 L 202.7 126.21" fill="none" stroke="#bd93f9" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="4 4" class="nodal-line"/>
+<g class="nodal-head">
+<polyline points="202.7,130.12 193.4,126.21 202.7,122.3" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+<polyline points="190.61,130.12 190.61,122.3" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+</g>
+<g class="nodal-head">
+<polyline points="122.95,122.3 132.25,126.21 122.95,130.12" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+<polyline points="135.04,122.3 135.04,130.12" fill="none" stroke="#bd93f9" stroke-width="1.5"/>
+</g>
+<rect x="168.18" y="118.34" width="29.17" height="15.75" rx="3" fill="#282a36" fill-opacity="0.9" class="nodal-label-bg"/>
+<text x="182.77" y="129.79" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal">uses</text>
 </g>
 </g>
 <g class="nodal-nodes">
@@ -29,21 +53,21 @@
 <text x="69.48" y="126.26" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">sector</text>
 </g>
 <g id="ORDER" class="nodal-node">
-<rect x="198.47" y="21.71" width="127.27" height="68.5" rx="6" fill="#44475a" stroke="#bd93f9" stroke-width="1.5"/>
-<text x="262.1" y="43.01" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">ORDER</text>
-<text x="262.1" y="60.51" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">orderNumber</text>
-<text x="262.1" y="78.01" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">deliveryAddress</text>
+<rect x="222.22" y="21.71" width="127.27" height="68.5" rx="6" fill="#44475a" stroke="#bd93f9" stroke-width="1.5"/>
+<text x="285.85" y="43.01" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">ORDER</text>
+<text x="285.85" y="60.51" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">orderNumber</text>
+<text x="285.85" y="78.01" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">deliveryAddress</text>
 </g>
 <g id="LINE_ITEM" class="nodal-node">
-<rect x="401.25" y="16" width="108.12" height="86" rx="6" fill="#44475a" stroke="#bd93f9" stroke-width="1.5"/>
-<text x="455.31" y="37.3" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">LINE-ITEM</text>
-<text x="455.31" y="54.8" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">productCode</text>
-<text x="455.31" y="72.3" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">quantity</text>
-<text x="455.31" y="89.8" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">pricePerUnit</text>
+<rect x="448.75" y="16" width="108.12" height="86" rx="6" fill="#44475a" stroke="#bd93f9" stroke-width="1.5"/>
+<text x="502.81" y="37.3" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">LINE-ITEM</text>
+<text x="502.81" y="54.8" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">productCode</text>
+<text x="502.81" y="72.3" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">quantity</text>
+<text x="502.81" y="89.8" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">pricePerUnit</text>
 </g>
 <g id="DELIVERY_ADDRESS" class="nodal-node">
-<rect x="178.95" y="118.21" width="166.3" height="33.5" rx="6" fill="#44475a" stroke="#bd93f9" stroke-width="1.5"/>
-<text x="262.1" y="139.51" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">DELIVERY-ADDRESS</text>
+<rect x="202.7" y="118.21" width="166.3" height="33.5" rx="6" fill="#44475a" stroke="#bd93f9" stroke-width="1.5"/>
+<text x="285.85" y="139.51" text-anchor="middle" fill="#f8f8f2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">DELIVERY-ADDRESS</text>
 </g>
 </g>
 </svg>

@@ -1,49 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119" height="412" viewBox="0 0 118.86 412.5" class="nodal">
-<rect x="0" y="0" width="118.86" height="412.5" fill="#2e3440"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119" height="392" viewBox="0 0 118.86 392.5" class="nodal">
+<rect x="0" y="0" width="118.86" height="392.5" fill="#2e3440"/>
 <g class="nodal-groups">
 
 </g>
 <g class="nodal-edges">
 <g id="e0" class="nodal-edge">
-<path d="M 77.15 44 L 77.15 91.63" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
-<polygon points="77.15,100 73.24,90.7 81.05,90.7" fill="#88c0d0" class="nodal-head"/>
+<path d="M 77.15 34 L 77.15 81.63" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="77.15,90 73.24,80.7 81.05,80.7" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e1" class="nodal-edge">
-<path d="M 86.15 133.5 L 86.15 142.5 Q 86.15 151.5 88.77 160.11 L 99.36 194.77 Q 102.86 206.25 102.67 218.25 L 101.65 283.75 Q 101.46 295.75 96.12 306.5 L 82.43 334.07 Q 78.42 342.13 78.42 351.13 L 78.42 360.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
-<polygon points="78.42,368.5 74.52,359.2 82.33,359.2" fill="#88c0d0" class="nodal-head"/>
+<path d="M 86.15 123.5 L 86.15 132.5 Q 86.15 141.5 88.77 150.11 L 99.36 184.77 Q 102.86 196.25 102.67 208.25 L 101.65 273.75 Q 101.46 285.75 96.12 296.5 L 82.43 324.07 Q 78.42 332.13 78.42 341.13 L 78.42 350.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="78.42,358.5 74.52,349.2 82.33,349.2" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e2" class="nodal-edge">
-<path d="M 68.15 141.87 L 68.15 153.64 Q 68.15 161.5 60.29 161.5 L 60.29 161.5 Q 52.43 161.5 52.43 169.36 L 52.43 181.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
-<polygon points="52.43,189.5 48.52,180.2 56.34,180.2" fill="#88c0d0" class="nodal-head"/>
-<polygon points="68.15,133.5 72.05,142.8 64.24,142.8" fill="#88c0d0" class="nodal-head"/>
+<path d="M 68.15 131.87 L 68.15 143.64 Q 68.15 151.5 60.29 151.5 L 60.29 151.5 Q 52.43 151.5 52.43 159.36 L 52.43 171.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="52.43,179.5 48.52,170.2 56.34,170.2" fill="#88c0d0" class="nodal-head"/>
+<polygon points="68.15,123.5 72.05,132.8 64.24,132.8" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e3" class="nodal-edge">
-<path d="M 53.63 223 L 53.63 270.63" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
-<polygon points="53.63,279 49.72,269.7 57.53,269.7" fill="#88c0d0" class="nodal-head"/>
+<path d="M 53.63 213 L 53.63 260.63" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="53.63,269 49.72,259.7 57.53,259.7" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e4" class="nodal-edge">
-<path d="M 54.83 312.5 L 54.83 328.7 Q 54.83 340.5 66.62 340.5 L 68.61 340.5 Q 78.42 340.5 78.42 350.31 L 78.42 360.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
-<polygon points="78.42,368.5 74.52,359.2 82.33,359.2" fill="#88c0d0" class="nodal-head"/>
+<path d="M 54.83 302.5 L 54.83 318.7 Q 54.83 330.5 66.62 330.5 L 68.61 330.5 Q 78.42 330.5 78.42 340.31 L 78.42 350.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="78.42,358.5 74.52,349.2 82.33,349.2" fill="#88c0d0" class="nodal-head"/>
 </g>
 </g>
 <g class="nodal-nodes">
 <g id="start" class="nodal-node solid">
-<ellipse cx="77.15" cy="30" rx="20" ry="14" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
+<ellipse cx="77.15" cy="25" rx="9" ry="9" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
 </g>
 <g id="Still" class="nodal-node">
-<rect x="51.93" y="100" width="50.44" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
-<text x="77.15" y="121.3" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Still</text>
+<rect x="51.93" y="90" width="50.44" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
+<text x="77.15" y="111.3" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Still</text>
 </g>
 <g id="Moving" class="nodal-node">
-<rect x="16" y="189.5" width="72.86" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
-<text x="52.43" y="210.8" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Moving</text>
+<rect x="16" y="179.5" width="72.86" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
+<text x="52.43" y="200.8" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Moving</text>
 </g>
 <g id="Crash" class="nodal-node red">
-<rect x="22.19" y="279" width="65.27" height="33.5" rx="10" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
-<text x="54.83" y="300.3" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Crash</text>
+<rect x="22.19" y="269" width="65.27" height="33.5" rx="10" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
+<text x="54.83" y="290.3" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Crash</text>
 </g>
 <g id="stop" class="nodal-node solid">
-<ellipse cx="78.42" cy="382.5" rx="20" ry="14" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
+<ellipse cx="78.42" cy="367.5" rx="9" ry="9" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
 </g>
 </g>
 </svg>

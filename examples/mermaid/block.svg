@@ -16,7 +16,7 @@
 <polygon points="256.98,153 253.08,143.7 260.89,143.7" fill="#a89984" class="nodal-head"/>
 </g>
 <g id="e2" class="nodal-edge">
-<path d="M 427.64 74.4 L 427.64 120.13" fill="none" stroke="#a89984" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<path d="M 427.64 77.25 L 427.64 120.13" fill="none" stroke="#a89984" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
 <polygon points="427.64,128.5 423.73,119.2 431.55,119.2" fill="#a89984" class="nodal-head"/>
 </g>
 </g>
@@ -30,7 +30,7 @@
 <text x="256.98" y="61.8" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">B wide</text>
 </g>
 <g id="c" class="nodal-node red">
-<ellipse cx="427.64" cy="57.25" rx="20" ry="17.15" fill="#562f2b" stroke="#fb4934" stroke-width="1.5"/>
+<ellipse cx="427.64" cy="57.25" rx="20" ry="20" fill="#562f2b" stroke="#fb4934" stroke-width="1.5"/>
 <text x="427.64" y="61.8" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">C</text>
 </g>
 <g id="d" class="nodal-node">
