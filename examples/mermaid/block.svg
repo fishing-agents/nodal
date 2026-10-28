@@ -1,16 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="514" height="227" viewBox="0 0 514.0 227.0" class="nodal">
-<rect width="100%" height="100%" fill="#282828"/>
+<rect x="0" y="0" width="514.0" height="227.0" fill="#282828"/>
 <g id="f" class="nodal-group">
 <rect x="357.3" y="128.5" width="140.7" height="82.5" rx="10" fill="#312f2e" stroke="#665c54" stroke-width="1"/>
 <text x="371.3" y="153.9" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#a89984">F (nested block)</text>
 </g>
-<g id="e0" class="nodal-edge"><path d="M 86.3 74.0 L 86.3 132.9" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<g id="e0" class="nodal-edge">
+<path d="M 86.3 74.0 L 86.3 132.9" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
 <polygon class="nodal-head" points="86.3,141.3 82.4,132.0 90.2,132.0" fill="#a89984"/>
 </g>
-<g id="e1" class="nodal-edge"><path d="M 257.0 74.0 L 257.0 144.6" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<g id="e1" class="nodal-edge">
+<path d="M 257.0 74.0 L 257.0 144.6" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
 <polygon class="nodal-head" points="257.0,153.0 253.1,143.7 260.9,143.7" fill="#a89984"/>
 </g>
-<g id="e2" class="nodal-edge"><path d="M 427.6 74.4 L 427.6 120.1" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<g id="e2" class="nodal-edge">
+<path d="M 427.6 74.4 L 427.6 120.1" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
 <polygon class="nodal-head" points="427.6,128.5 423.7,119.2 431.5,119.2" fill="#a89984"/>
 </g>
 <g id="a" class="nodal-node yellow">

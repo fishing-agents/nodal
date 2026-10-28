@@ -1,12 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="592" height="348" viewBox="0 0 592.0 347.5" class="nodal">
-<rect width="100%" height="100%" fill="#fdf6e3"/>
-<g id="e0" class="nodal-edge accent"><path d="M 100.0 137.0 L 100.0 159.0 Q 100.0 165.0 106.0 165.0 L 290.0 165.0 Q 296.0 165.0 296.0 171.0 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<rect x="0" y="0" width="592.0" height="347.5" fill="#fdf6e3"/>
+<g id="e0" class="nodal-edge accent">
+<path d="M 100.0 137.0 L 100.0 159.0 Q 100.0 165.0 106.0 165.0 L 290.0 165.0 Q 296.0 165.0 296.0 171.0 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
 <polygon class="nodal-head" points="296.0,193.0 292.1,183.7 299.9,183.7" fill="#268bd2"/>
 </g>
-<g id="e1" class="nodal-edge accent"><path d="M 296.0 128.2 L 296.0 159.0 Q 296.0 165.0 296.0 171.0 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<g id="e1" class="nodal-edge accent">
+<path d="M 296.0 128.2 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
 <polygon class="nodal-head" points="296.0,193.0 292.1,183.7 299.9,183.7" fill="#268bd2"/>
 </g>
-<g id="e2" class="nodal-edge accent"><path d="M 492.0 128.2 L 492.0 159.0 Q 492.0 165.0 486.0 165.0 L 302.0 165.0 Q 296.0 165.0 296.0 171.0 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<g id="e2" class="nodal-edge accent">
+<path d="M 492.0 128.2 L 492.0 159.0 Q 492.0 165.0 486.0 165.0 L 302.0 165.0 Q 296.0 165.0 296.0 171.0 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
 <polygon class="nodal-head" points="296.0,193.0 292.1,183.7 299.9,183.7" fill="#268bd2"/>
 </g>
 <g id="Animal" class="nodal-node">

@@ -1,14 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="525" height="168" viewBox="0 0 525.4 167.7" class="nodal">
-<rect width="100%" height="100%" fill="#282a36"/>
-<g id="e0" class="nodal-edge"><path d="M 123.0 75.7 L 145.0 75.7 Q 151.0 75.7 157.0 75.7 L 198.5 75.7" fill="none" stroke="#bd93f9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0" y="0" width="525.4" height="167.7" fill="#282a36"/>
+<g id="e0" class="nodal-edge">
+<path d="M 123.0 75.7 L 198.5 75.7" fill="none" stroke="#bd93f9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="127.1" y="67.8" width="67.1" height="15.8" rx="3" fill="#282a36" fill-opacity="0.9"/>
 <text x="160.7" y="79.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#f8f8f2">places  1 : N</text>
 </g>
-<g id="e1" class="nodal-edge"><path d="M 325.7 57.5 L 357.5 57.5 Q 363.5 57.5 369.5 57.5 L 401.2 57.5" fill="none" stroke="#bd93f9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e1" class="nodal-edge">
+<path d="M 325.7 57.5 L 401.2 57.5" fill="none" stroke="#bd93f9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="325.3" y="49.6" width="76.4" height="15.8" rx="3" fill="#282a36" fill-opacity="0.9"/>
 <text x="363.5" y="61.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#f8f8f2">contains  1 : N</text>
 </g>
-<g id="e2" class="nodal-edge"><path d="M 123.0 126.2 L 145.0 126.2 Q 151.0 126.2 157.0 126.2 L 179.0 126.2" fill="none" stroke="#bd93f9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<g id="e2" class="nodal-edge">
+<path d="M 123.0 126.2 L 179.0 126.2" fill="none" stroke="#bd93f9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
 <rect x="121.7" y="118.3" width="58.5" height="15.8" rx="3" fill="#282a36" fill-opacity="0.9"/>
 <text x="151.0" y="129.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#f8f8f2">uses  1 : N</text>
 </g>

@@ -1,16 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="444" height="122" viewBox="0 0 444.0 122.0" class="nodal">
-<rect width="100%" height="100%" fill="#002b36"/>
-<g id="e0" class="nodal-edge blue"><path d="M 128.0 27.0 L 145.0 27.0 Q 146.0 27.0 147.0 27.0 L 147.0 27.0 Q 148.0 27.0 149.0 27.0 L 166.0 27.0" fill="none" stroke="#268bd2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0" y="0" width="444.0" height="122.0" fill="#002b36"/>
+<g id="e0" class="nodal-edge blue">
+<path d="M 128.0 27.0 L 166.0 27.0" fill="none" stroke="#268bd2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g id="e1" class="nodal-edge blue"><path d="M 188.0 27.0 L 197.0 27.0 Q 206.0 27.0 215.0 27.0 L 319.0 27.0 Q 328.0 27.0 337.0 27.0 L 346.0 27.0" fill="none" stroke="#268bd2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e1" class="nodal-edge blue">
+<path d="M 188.0 27.0 L 346.0 27.0" fill="none" stroke="#268bd2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g id="e2" class="nodal-edge blue"><path d="M 368.0 27.0 L 385.0 27.0 Q 386.0 27.0 387.0 27.0 L 387.0 27.0 Q 388.0 27.0 389.0 27.0 L 406.0 27.0" fill="none" stroke="#268bd2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e2" class="nodal-edge blue">
+<path d="M 368.0 27.0 L 406.0 27.0" fill="none" stroke="#268bd2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g id="e3" class="nodal-edge green"><path d="M 177.0 38.0 L 177.0 75.0 Q 177.0 87.0 189.0 87.0 L 226.0 87.0" fill="none" stroke="#859900" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e3" class="nodal-edge green">
+<path d="M 177.0 38.0 L 177.0 75.0 Q 177.0 87.0 189.0 87.0 L 226.0 87.0" fill="none" stroke="#859900" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g id="e4" class="nodal-edge green"><path d="M 248.0 87.0 L 265.0 87.0 Q 266.0 87.0 267.0 87.0 L 267.0 87.0 Q 268.0 87.0 269.0 87.0 L 286.0 87.0" fill="none" stroke="#859900" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e4" class="nodal-edge green">
+<path d="M 248.0 87.0 L 286.0 87.0" fill="none" stroke="#859900" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g id="e5" class="nodal-edge green"><path d="M 308.0 87.0 L 345.0 87.0 Q 357.0 87.0 357.0 75.0 L 357.0 38.0" fill="none" stroke="#859900" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e5" class="nodal-edge green">
+<path d="M 308.0 87.0 L 345.0 87.0 Q 357.0 87.0 357.0 75.0 L 357.0 38.0" fill="none" stroke="#859900" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g id="main" class="nodal-node">
 

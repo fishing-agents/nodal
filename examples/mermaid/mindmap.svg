@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="537" height="466" viewBox="0 0 537.4 466.2" class="nodal">
-<rect width="100%" height="100%" fill="#1e1e2e"/>
+<rect x="0" y="0" width="537.4" height="466.2" fill="#1e1e2e"/>
 <g id="origins" class="nodal-group blue">
 <rect x="183.5" y="16.0" width="148.0" height="143.5" rx="10" fill="#363f5b" stroke="#89b4fa" stroke-width="1"/>
 <text x="197.5" y="41.4" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#a6adc8">Origins</text>
@@ -12,11 +12,14 @@
 <rect x="16.0" y="315.5" width="147.4" height="126.0" rx="10" fill="#4e3f42" stroke="#fab387" stroke-width="1"/>
 <text x="30.0" y="340.9" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#a6adc8">Tools</text>
 </g>
-<g id="e0" class="nodal-edge"><path d="M 257.5 244.4 L 257.5 159.5" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e0" class="nodal-edge">
+<path d="M 257.5 244.4 L 257.5 159.5" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g id="e1" class="nodal-edge"><path d="M 289.7 300.2 L 329.4 323.0" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e1" class="nodal-edge">
+<path d="M 289.7 300.2 L 329.4 323.0" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g id="e2" class="nodal-edge"><path d="M 225.4 300.2 L 163.4 335.9" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e2" class="nodal-edge">
+<path d="M 225.4 300.2 L 163.4 335.9" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g id="root" class="nodal-node purple">
 <ellipse cx="257.5" cy="281.6" rx="37.2" ry="37.2" fill="#443c5a" stroke="#cba6f7" stroke-width="1.5"/>

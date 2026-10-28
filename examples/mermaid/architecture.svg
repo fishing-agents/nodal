@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="424" height="292" viewBox="0 0 423.7 292.5" class="nodal">
-<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="0" y="0" width="423.7" height="292.5" fill="#ffffff"/>
 <g id="api" class="nodal-group">
 <rect x="16.0" y="77.5" width="391.7" height="199.0" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
 <text x="30.0" y="102.9" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#656d76">API (cloud)</text>
@@ -8,16 +8,20 @@
 <text x="44.0" y="137.9" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#656d76">Storage</text>
 </g>
 </g>
-<g id="e0" class="nodal-edge"><path d="M 215.5 49.5 L 215.5 97.5 Q 215.5 103.5 215.5 109.5 L 215.5 157.5" fill="none" stroke="#656d76" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<g id="e0" class="nodal-edge">
+<path d="M 215.5 49.5 L 215.5 157.5" fill="none" stroke="#656d76" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
 <polygon class="nodal-head" points="215.5,165.9 211.6,156.6 219.4,156.6" fill="#656d76"/>
 </g>
-<g id="e1" class="nodal-edge"><path d="M 258.5 190.3 L 272.1 190.3 Q 278.1 190.3 284.1 190.3 L 297.8 190.3" fill="none" stroke="#656d76" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<g id="e1" class="nodal-edge">
+<path d="M 258.5 190.3 L 297.8 190.3" fill="none" stroke="#656d76" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
 <polygon class="nodal-head" points="306.1,190.3 296.8,194.2 296.8,186.4" fill="#656d76"/>
 <polygon class="nodal-head" points="250.1,190.3 259.4,186.4 259.4,194.2" fill="#656d76"/>
 </g>
-<g id="e2" class="nodal-edge"><path d="M 110.9 176.4 L 139.9 176.4 Q 145.9 176.4 151.9 176.4 L 180.9 176.4" fill="none" stroke="#656d76" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e2" class="nodal-edge">
+<path d="M 110.9 176.4 L 180.9 176.4" fill="none" stroke="#656d76" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g id="e3" class="nodal-edge"><path d="M 110.9 225.8 L 157.2 225.8 Q 163.2 225.8 163.2 219.8 L 163.2 219.4 Q 163.2 213.4 169.2 213.4 L 209.5 213.4 Q 215.5 213.4 221.5 213.4 L 254.8 213.4 Q 260.8 213.4 260.8 207.4 L 260.8 204.0 Q 260.8 198.0 266.8 198.0 L 306.1 198.0" fill="none" stroke="#656d76" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="e3" class="nodal-edge">
+<path d="M 110.9 225.8 L 157.2 225.8 Q 163.2 225.8 163.2 219.8 L 163.2 219.4 Q 163.2 213.4 169.2 213.4 L 209.5 213.4 Q 215.5 213.4 221.5 213.4 L 254.8 213.4 Q 260.8 213.4 260.8 207.4 L 260.8 204.0 Q 260.8 198.0 266.8 198.0 L 306.1 198.0" fill="none" stroke="#656d76" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 <g id="db" class="nodal-node blue">
 <path d="M306.1,181.2 A43.8,6 0 0 1 393.7,181.2 V214.7 A43.8,6 0 0 1 306.1,214.7 Z" fill="#c9def7" stroke="#0969da" stroke-width="1.5"/><path d="M306.1,181.2 A43.8,6 0 0 0 393.7,181.2" fill="none" stroke="#0969da" stroke-width="1.5"/>
