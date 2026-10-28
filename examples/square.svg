@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="526" height="172" viewBox="0 0 526.3 172.0" class="nodal">
-<defs><marker id="m-triangle-4b5563-3_75-e" viewBox="0 0 9.0 9.0" refX="8.0" refY="4.5" markerWidth="17.2" markerHeight="17.2" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L9.0,4.5 L0,9.0 z" fill="#4b5563"/></marker><marker id="m-triangle-4b5563-1_5-e" viewBox="0 0 9.0 9.0" refX="8.0" refY="4.5" markerWidth="10.1" markerHeight="10.1" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L9.0,4.5 L0,9.0 z" fill="#4b5563"/></marker></defs>
 <g id="pool" class="nodal-group">
 <rect x="187.4" y="16.0" width="174.9" height="140.0" rx="10" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1"/>
 <text x="201.4" y="41.4" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#374151">GPU pool</text>
 </g>
-<g id="e0" class="nodal-edge"><path d="M 131.4 86.0 L 151.4 86.0 Q 159.4 86.0 167.4 86.0 L 187.4 86.0" fill="none" stroke="#4b5563" stroke-width="3.75" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#m-triangle-4b5563-3_75-e)"/>
-<rect x="146.0" y="78.1" width="26.8" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
-<text x="159.4" y="89.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#374151">bind</text>
+<g id="e0" class="nodal-edge"><path d="M 131.4 86.0 L 145.0 86.0 Q 153.0 86.0 161.0 86.0 L 174.6 86.0" fill="none" stroke="#4b5563" stroke-width="3.75" stroke-linecap="butt" stroke-linejoin="round"/>
+<polygon class="nodal-head" points="187.4,86.0 173.2,92.0 173.2,80.0" fill="#4b5563"/>
+<rect x="139.6" y="78.1" width="26.8" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<text x="153.0" y="89.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#374151">bind</text>
 </g>
-<g id="e1" class="nodal-edge"><path d="M 362.3 86.0 L 382.3 86.0 Q 390.3 86.0 398.3 86.0 L 418.3 86.0" fill="none" stroke="#4b5563" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#m-triangle-4b5563-1_5-e)"/>
-<rect x="369.6" y="78.1" width="41.4" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
-<text x="390.3" y="89.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#374151">metrics</text>
+<g id="e1" class="nodal-edge"><path d="M 362.3 86.0 L 378.1 86.0 Q 386.1 86.0 394.1 86.0 L 410.0 86.0" fill="none" stroke="#4b5563" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<polygon class="nodal-head" points="418.3,86.0 409.0,89.9 409.0,82.1" fill="#4b5563"/>
+<rect x="365.5" y="78.1" width="41.4" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
+<text x="386.1" y="89.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#374151">metrics</text>
 </g>
 <g id="sched" class="nodal-node">
 <rect x="16.0" y="28.3" width="115.4" height="115.4" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
