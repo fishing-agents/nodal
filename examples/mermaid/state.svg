@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119" height="412" viewBox="0 0 118.9 412.5" class="nodal">
+<rect width="100%" height="100%" fill="#2e3440"/>
+<g id="e0" class="nodal-edge"><path d="M 77.1 44.0 L 77.1 56.2 Q 77.1 62.0 77.1 67.8 L 77.1 67.8 Q 77.1 73.6 77.1 79.4 L 77.1 91.6" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<polygon class="nodal-head" points="77.1,100.0 73.2,90.7 81.1,90.7" fill="#88c0d0"/>
+</g>
+<g id="e1" class="nodal-edge"><path d="M 77.1 133.5 L 77.1 142.5 Q 77.1 151.5 81.0 159.6 L 97.8 195.4 Q 102.9 206.2 102.7 218.2 L 101.6 283.8 Q 101.5 295.8 96.1 306.5 L 82.4 334.1 Q 78.4 342.1 78.4 351.1 L 78.4 360.1" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<polygon class="nodal-head" points="78.4,368.5 74.5,359.2 82.3,359.2" fill="#88c0d0"/>
+</g>
+<g id="e2" class="nodal-edge"><path d="M 77.1 133.5 L 77.1 142.5 Q 77.1 151.5 69.0 155.3 L 60.6 159.3 Q 52.4 163.1 52.4 172.1 L 52.4 181.1" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<polygon class="nodal-head" points="52.4,189.5 48.5,180.2 56.3,180.2" fill="#88c0d0"/>
+</g>
+<g id="e3" class="nodal-edge"><path d="M 52.4 189.5 L 52.4 180.5 Q 52.4 171.5 60.6 167.7 L 69.0 163.7 Q 77.1 159.9 77.1 150.9 L 77.1 141.9" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<polygon class="nodal-head" points="77.1,133.5 81.1,142.8 73.2,142.8" fill="#88c0d0"/>
+</g>
+<g id="e4" class="nodal-edge"><path d="M 52.4 223.0 L 52.4 235.1 Q 52.4 241.0 53.6 246.8 L 53.6 246.8 Q 54.8 252.6 54.8 258.6 L 54.8 270.6" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<polygon class="nodal-head" points="54.8,279.0 50.9,269.7 58.7,269.7" fill="#88c0d0"/>
+</g>
+<g id="e5" class="nodal-edge"><path d="M 54.8 312.5 L 54.8 321.5 Q 54.8 330.5 62.9 334.5 L 70.3 338.2 Q 78.4 342.1 78.4 351.1 L 78.4 360.1" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
+<polygon class="nodal-head" points="78.4,368.5 74.5,359.2 82.3,359.2" fill="#88c0d0"/>
+</g>
+<g id="start" class="nodal-node solid">
+<ellipse cx="77.1" cy="30.0" rx="20.0" ry="14.0" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
+</g>
+<g id="Still" class="nodal-node">
+<rect x="51.9" y="100.0" width="50.4" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
+<text x="77.1" y="121.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#eceff4">Still</text>
+</g>
+<g id="Moving" class="nodal-node">
+<rect x="16.0" y="189.5" width="72.9" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
+<text x="52.4" y="210.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#eceff4">Moving</text>
+</g>
+<g id="Crash" class="nodal-node red">
+<rect x="22.2" y="279.0" width="65.3" height="33.5" rx="10" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
+<text x="54.8" y="300.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#eceff4">Crash</text>
+</g>
+<g id="stop" class="nodal-node solid">
+<ellipse cx="78.4" cy="382.5" rx="20.0" ry="14.0" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
+</g>
+</svg>

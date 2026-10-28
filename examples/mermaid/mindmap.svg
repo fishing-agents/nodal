@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="537" height="466" viewBox="0 0 537.4 466.2" class="nodal">
+<rect width="100%" height="100%" fill="#1e1e2e"/>
+<g id="origins" class="nodal-group blue">
+<rect x="183.5" y="16.0" width="148.0" height="143.5" rx="10" fill="#363f5b" stroke="#89b4fa" stroke-width="1"/>
+<text x="197.5" y="41.4" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#a6adc8">Origins</text>
+</g>
+<g id="research" class="nodal-group green">
+<rect x="329.4" y="306.7" width="192.1" height="143.5" rx="10" fill="#3c4947" stroke="#a6e3a1" stroke-width="1"/>
+<text x="343.4" y="332.1" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#a6adc8">Research</text>
+</g>
+<g id="tools" class="nodal-group orange">
+<rect x="16.0" y="315.5" width="147.4" height="126.0" rx="10" fill="#4e3f42" stroke="#fab387" stroke-width="1"/>
+<text x="30.0" y="340.9" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#a6adc8">Tools</text>
+</g>
+<g id="e0" class="nodal-edge"><path d="M 257.5 244.4 L 257.5 159.5" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="e1" class="nodal-edge"><path d="M 289.7 300.2 L 329.4 323.0" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="e2" class="nodal-edge"><path d="M 225.4 300.2 L 163.4 335.9" fill="none" stroke="#a6adc8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="root" class="nodal-node purple">
+<ellipse cx="257.5" cy="281.6" rx="37.2" ry="37.2" fill="#443c5a" stroke="#cba6f7" stroke-width="1.5"/>
+<text x="257.5" y="286.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">mindmap</text>
+</g>
+<g id="o1" class="nodal-node">
+<rect x="205.4" y="51.0" width="104.2" height="33.5" rx="10" fill="#313244" stroke="#585b70" stroke-width="1.5"/>
+<text x="257.5" y="72.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">Long history</text>
+</g>
+<g id="o2" class="nodal-node">
+<rect x="197.5" y="94.5" width="120.0" height="51.0" rx="10" fill="#313244" stroke="#585b70" stroke-width="1.5"/>
+<text x="257.5" y="115.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">Popularisation:</text>
+<text x="257.5" y="133.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">Tony Buzan</text>
+</g>
+<g id="r1" class="nodal-node">
+<rect x="359.4" y="341.7" width="132.0" height="51.0" rx="10" fill="#313244" stroke="#585b70" stroke-width="1.5"/>
+<text x="425.4" y="363.0" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">On effectiveness</text>
+<text x="425.4" y="380.5" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">and features</text>
+</g>
+<g id="r2" class="nodal-node">
+<rect x="343.4" y="402.7" width="164.1" height="33.5" rx="10" fill="#313244" stroke="#585b70" stroke-width="1.5"/>
+<text x="425.4" y="424.0" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">On automatic creation</text>
+</g>
+<g id="t1" class="nodal-node">
+<rect x="30.0" y="350.5" width="119.4" height="33.5" rx="10" fill="#313244" stroke="#585b70" stroke-width="1.5"/>
+<text x="89.7" y="371.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">Pen and paper</text>
+</g>
+<g id="t2" class="nodal-node">
+<rect x="48.5" y="394.0" width="82.4" height="33.5" rx="10" fill="#313244" stroke="#585b70" stroke-width="1.5"/>
+<text x="89.7" y="415.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#cdd6f4">Mermaid</text>
+</g>
+</svg>
