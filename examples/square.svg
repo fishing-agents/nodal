@@ -1,42 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="526" height="172" viewBox="0 0 526.3 172.0" class="nodal">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="526" height="172" viewBox="0 0 526.3 172" class="nodal">
+<g class="nodal-groups">
 <g id="pool" class="nodal-group">
-<rect x="187.4" y="16.0" width="174.9" height="140.0" rx="10" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1"/>
-<text x="201.4" y="41.4" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#374151">GPU pool</text>
+<rect x="187.43" y="16" width="174.91" height="140" rx="10" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1"/>
+<text x="201.43" y="41.4" text-anchor="start" fill="#374151" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal">GPU pool</text>
 </g>
+</g>
+<g class="nodal-edges">
 <g id="e0" class="nodal-edge">
-<path d="M 131.4 86.0 L 174.6 86.0" fill="none" stroke="#4b5563" stroke-width="3.75" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="187.4,86.0 173.2,92.0 173.2,80.0" fill="#4b5563"/>
-<rect x="139.6" y="78.1" width="26.8" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
-<text x="153.0" y="89.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#374151">bind</text>
+<path d="M 131.43 86 L 174.6 86" fill="none" stroke="#4b5563" stroke-linejoin="round" stroke-width="3.75" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="187.43,86 173.18,91.98 173.18,80.02" fill="#4b5563" class="nodal-head"/>
+<rect x="139.63" y="78.12" width="26.77" height="15.75" rx="3" fill="#ffffff" fill-opacity="0.9" class="nodal-label-bg"/>
+<text x="153.01" y="89.58" text-anchor="middle" fill="#374151" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal">bind</text>
 </g>
 <g id="e1" class="nodal-edge">
-<path d="M 362.3 86.0 L 410.0 86.0" fill="none" stroke="#4b5563" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="418.3,86.0 409.0,89.9 409.0,82.1" fill="#4b5563"/>
-<rect x="365.5" y="78.1" width="41.4" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
-<text x="386.1" y="89.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal" fill="#374151">metrics</text>
+<path d="M 362.33 86 L 409.96 86" fill="none" stroke="#4b5563" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="418.33,86 409.03,89.91 409.03,82.09" fill="#4b5563" class="nodal-head"/>
+<rect x="365.45" y="78.12" width="41.39" height="15.75" rx="3" fill="#ffffff" fill-opacity="0.9" class="nodal-label-bg"/>
+<text x="386.15" y="89.58" text-anchor="middle" fill="#374151" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="normal" font-style="normal">metrics</text>
 </g>
+</g>
+<g class="nodal-nodes">
 <g id="sched" class="nodal-node">
-<rect x="16.0" y="28.3" width="115.4" height="115.4" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
-<text x="73.7" y="90.5" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#111827">HAMi scheduler</text>
+<rect x="16" y="28.29" width="115.42" height="115.42" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="73.71" y="90.55" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">HAMi scheduler</text>
 </g>
 <g id="g0" class="nodal-node">
-<rect x="201.8" y="51.0" width="60.7" height="33.5" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
-<text x="232.2" y="72.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#111827">A100</text>
+<rect x="201.81" y="51" width="60.69" height="33.5" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="232.15" y="72.3" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">A100</text>
 </g>
 <g id="g1" class="nodal-node">
-<rect x="287.3" y="51.0" width="60.7" height="33.5" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
-<text x="317.6" y="72.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#111827">A100</text>
+<rect x="287.26" y="51" width="60.69" height="33.5" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="317.6" y="72.3" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">A100</text>
 </g>
 <g id="g2" class="nodal-node">
-<rect x="201.4" y="108.5" width="61.5" height="33.5" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
-<text x="232.2" y="129.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#111827">H100</text>
+<rect x="201.43" y="108.5" width="61.45" height="33.5" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="232.15" y="129.8" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">H100</text>
 </g>
 <g id="g3" class="nodal-node">
-<rect x="287.3" y="108.5" width="60.7" height="33.5" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
-<text x="317.6" y="129.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#111827">L40S</text>
+<rect x="287.26" y="108.5" width="60.69" height="33.5" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="317.6" y="129.8" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">L40S</text>
 </g>
 <g id="prom" class="nodal-node">
-<rect x="418.3" y="40.0" width="92.0" height="92.0" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
-<text x="464.3" y="90.5" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#111827">Prometheus</text>
+<rect x="418.33" y="40.01" width="91.97" height="91.97" rx="6" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="464.32" y="90.55" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Prometheus</text>
+</g>
 </g>
 </svg>

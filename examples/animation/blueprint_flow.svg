@@ -1,137 +1,143 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="924" height="502" viewBox="0 0 923.6 502.2" class="nodal">
-<rect x="0" y="0" width="923.6" height="502.2" fill="#2e3440"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="924" height="502" viewBox="0 0 923.6 502.25" class="nodal">
+<rect x="0" y="0" width="923.6" height="502.25" fill="#2e3440"/>
+<g class="nodal-groups">
 <g id="tenants" class="nodal-group">
-<rect x="16.0" y="16.0" width="406.2" height="108.5" rx="10" fill="#343a48" stroke="#81a1c1" stroke-width="1"/>
-<text x="30.0" y="40.5" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="bold" font-style="normal" fill="#d8dee9">TENANTS</text>
+<rect x="16" y="16" width="406.23" height="108.5" rx="10" fill="#343a48" stroke="#81a1c1" stroke-width="1"/>
+<text x="30" y="40.45" text-anchor="start" fill="#d8dee9" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="bold" font-style="normal">TENANTS</text>
 </g>
 <g id="cp" class="nodal-group">
-<rect x="258.8" y="158.5" width="648.8" height="108.5" rx="10" fill="#343a48" stroke="#81a1c1" stroke-width="1"/>
-<text x="272.8" y="182.9" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="bold" font-style="normal" fill="#d8dee9">CONTROL PLANE</text>
+<rect x="258.82" y="158.5" width="648.78" height="108.5" rx="10" fill="#343a48" stroke="#81a1c1" stroke-width="1"/>
+<text x="341.21" y="182.95" text-anchor="start" fill="#d8dee9" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="bold" font-style="normal">CONTROL PLANE</text>
 </g>
 <g id="lower" class="nodal-group bare">
-<rect x="78.6" y="301.0" width="695.0" height="185.2" rx="10" fill="none" stroke="none" stroke-width="1"/>
+<rect x="31.51" y="301" width="789.19" height="185.25" rx="10" fill="none" stroke="none" stroke-width="1"/>
 <g id="pools" class="nodal-group">
-<rect x="78.6" y="301.0" width="490.4" height="185.2" rx="10" fill="#343a48" stroke="#81a1c1" stroke-width="1"/>
-<text x="92.6" y="325.4" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="bold" font-style="normal" fill="#d8dee9">NODE POOLS</text>
+<rect x="31.51" y="301" width="490.38" height="185.25" rx="10" fill="#343a48" stroke="#81a1c1" stroke-width="1"/>
+<text x="45.51" y="325.45" text-anchor="start" fill="#d8dee9" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="bold" font-style="normal">NODE POOLS</text>
 </g>
 <g id="obs" class="nodal-group">
-<rect x="597.0" y="301.0" width="176.7" height="185.2" rx="10" fill="#343a48" stroke="#81a1c1" stroke-width="1"/>
-<text x="611.0" y="325.4" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="bold" font-style="normal" fill="#d8dee9">OBSERVE AND SELL</text>
+<rect x="549.89" y="301" width="270.81" height="185.25" rx="10" fill="#343a48" stroke="#81a1c1" stroke-width="1"/>
+<text x="563.89" y="325.45" text-anchor="start" fill="#d8dee9" font-family='"DejaVu Sans", sans-serif' font-size="11" font-weight="bold" font-style="normal">OBSERVE AND SELL</text>
 </g>
 </g>
+</g>
+<g class="nodal-edges">
 <g id="e0" class="nodal-edge">
-<path d="M 234.2 80.1 L 249.8 80.1" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="258.2,80.1 248.9,84.0 248.9,76.2" fill="#88c0d0"/>
+<path d="M 234.19 80.12 L 249.82 80.12" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="258.19,80.12 248.89,84.03 248.89,76.22" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e1" class="nodal-edge nodal-flow nodal-flow-forward">
-<path d="M 342.2 110.5 L 342.2 119.5 Q 342.2 128.5 350.9 130.7 L 484.5 163.7 Q 493.2 165.9 493.2 174.9 L 493.2 183.9" fill="none" stroke="#88c0d0" stroke-width="0.75" stroke-opacity="0.3"/>
-<path d="M 342.2 110.5 L 342.2 119.5 Q 342.2 128.5 350.9 130.7 L 484.5 163.7 Q 493.2 165.9 493.2 174.9 L 493.2 183.9" fill="none" stroke="#88c0d0" stroke-linejoin="round" class="nodal-flow-forward" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="1.2s" repeatCount="indefinite"/></path>
-<polygon class="nodal-head" points="493.2,192.2 489.3,182.9 497.1,182.9" fill="#88c0d0"/>
+<path d="M 342.21 110.5 L 342.21 129.5 Q 342.21 141.5 354.21 141.5 L 481.23 141.5 Q 493.23 141.5 493.23 153.5 L 493.23 183.88" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="0.75" stroke-opacity="0.3" class="nodal-line"/>
+<path d="M 342.21 110.5 L 342.21 129.5 Q 342.21 141.5 354.21 141.5 L 481.23 141.5 Q 493.23 141.5 493.23 153.5 L 493.23 183.88" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1" class="nodal-line nodal-flow-forward"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="1.2s" repeatCount="indefinite"/></path>
+<polygon points="493.23,192.25 489.33,182.95 497.14,182.95" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e2" class="nodal-edge">
-<path d="M 324.2 110.5 L 324.2 119.5 Q 324.2 128.5 326.3 137.2 L 331.1 157.1 Q 333.2 165.9 333.2 174.9 L 333.2 183.9" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="4 4"/>
-<polygon class="nodal-head" points="333.2,192.2 329.3,182.9 337.1,182.9" fill="#88c0d0"/>
+<path d="M 324.21 110.5 L 324.21 130.64 Q 324.21 137 328.71 141.5 L 328.71 141.5 Q 333.21 146 333.21 152.36 L 333.21 183.88" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="4 4" class="nodal-line"/>
+<polygon points="333.21,192.25 329.3,182.95 337.12,182.95" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e3" class="nodal-edge nodal-flow nodal-flow-forward">
-<path d="M 574.9 222.6 L 584.5 222.6" fill="none" stroke="#88c0d0" stroke-width="0.75" stroke-opacity="0.3"/>
-<path d="M 574.9 222.6 L 584.5 222.6" fill="none" stroke="#88c0d0" stroke-linejoin="round" class="nodal-flow-forward" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="1.2s" repeatCount="indefinite"/></path>
-<polygon class="nodal-head" points="592.9,222.6 583.6,226.5 583.6,218.7" fill="#88c0d0"/>
+<path d="M 574.87 222.62 L 584.5 222.62" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="0.75" stroke-opacity="0.3" class="nodal-line"/>
+<path d="M 574.87 222.62 L 584.5 222.62" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1" class="nodal-line nodal-flow-forward"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="1.2s" repeatCount="indefinite"/></path>
+<polygon points="592.87,222.62 583.57,226.53 583.57,218.72" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e4" class="nodal-edge">
-<path d="M 777.6 222.6 L 795.6 222.6" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<path d="M 777.65 222.62 L 795.65 222.62" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4" class="nodal-line"/>
 </g>
 <g id="e5" class="nodal-edge nodal-flow nodal-flow-forward">
-<path d="M 676.3 253.0 L 676.3 262.0 Q 676.3 271.0 667.3 271.7 L 222.1 307.7 Q 213.2 308.4 213.2 317.4 L 213.2 326.4" fill="none" stroke="#88c0d0" stroke-width="0.75" stroke-opacity="0.3"/>
-<path d="M 676.3 253.0 L 676.3 262.0 Q 676.3 271.0 667.3 271.7 L 222.1 307.7 Q 213.2 308.4 213.2 317.4 L 213.2 326.4" fill="none" stroke="#88c0d0" stroke-linejoin="round" class="nodal-flow-forward" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="1.2s" repeatCount="indefinite"/></path>
-<polygon class="nodal-head" points="213.2,334.8 209.3,325.4 217.1,325.4" fill="#88c0d0"/>
+<path d="M 676.26 253 L 676.26 276.5 Q 676.26 288.5 664.26 288.5 L 178.11 288.5 Q 166.11 288.5 166.11 300.5 L 166.11 326.38" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="0.75" stroke-opacity="0.3" class="nodal-line"/>
+<path d="M 676.26 253 L 676.26 276.5 Q 676.26 288.5 664.26 288.5 L 178.11 288.5 Q 166.11 288.5 166.11 300.5 L 166.11 326.38" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1" class="nodal-line nodal-flow-forward"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="1.2s" repeatCount="indefinite"/></path>
+<polygon points="166.11,334.75 162.2,325.45 170.01,325.45" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e6" class="nodal-edge">
-<path d="M 333.2 253.0 L 333.2 262.0 Q 333.2 271.0 324.5 273.4 L 203.9 306.0 Q 195.2 308.4 195.2 317.4 L 195.2 326.4" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="4 4"/>
-<polygon class="nodal-head" points="195.2,334.8 191.3,325.4 199.1,325.4" fill="#88c0d0"/>
+<path d="M 333.21 253 L 333.21 267.5 Q 333.21 279.5 321.21 279.5 L 160.11 279.5 Q 148.11 279.5 148.11 291.5 L 148.11 326.38" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="4 4" class="nodal-line"/>
+<polygon points="148.11,334.75 144.2,325.45 152.01,325.45" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e7" class="nodal-edge nodal-flow nodal-flow-forward">
-<path d="M 204.2 395.5 L 204.2 403.1" fill="none" stroke="#88c0d0" stroke-width="0.75" stroke-opacity="0.3"/>
-<path d="M 204.2 395.5 L 204.2 403.1" fill="none" stroke="#88c0d0" stroke-linejoin="round" class="nodal-flow-forward" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="1.2s" repeatCount="indefinite"/></path>
-<polygon class="nodal-head" points="204.2,411.5 200.3,402.2 208.1,402.2" fill="#88c0d0"/>
+<path d="M 157.11 395.5 L 157.11 403.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="0.75" stroke-opacity="0.3" class="nodal-line"/>
+<path d="M 157.11 395.5 L 157.11 403.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1" class="nodal-line nodal-flow-forward"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="1.2s" repeatCount="indefinite"/></path>
+<polygon points="157.11,411.5 153.2,402.2 161.01,402.2" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e8" class="nodal-edge nodal-flow nodal-flow-forward">
-<path d="M 315.8 365.1 L 324.8 365.1 Q 333.8 365.1 342.8 365.1 L 596.6 365.1 Q 605.6 365.1 614.6 365.1 L 623.6 365.1" fill="none" stroke="#88c0d0" stroke-width="0.75" stroke-opacity="0.3"/>
-<path d="M 315.8 365.1 L 324.8 365.1 Q 333.8 365.1 342.8 365.1 L 596.6 365.1 Q 605.6 365.1 614.6 365.1 L 623.6 365.1" fill="none" stroke="#88c0d0" stroke-linejoin="round" class="nodal-flow-forward" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="2s" repeatCount="indefinite"/></path>
-<polygon class="nodal-head" points="632.0,365.1 622.7,369.0 622.7,361.2" fill="#88c0d0"/>
+<path d="M 268.7 365.12 L 623.59 365.12" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="0.75" stroke-opacity="0.3" class="nodal-line"/>
+<path d="M 268.7 365.12 L 623.59 365.12" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1" class="nodal-line nodal-flow-forward"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="2s" repeatCount="indefinite"/></path>
+<polygon points="631.96,365.12 622.66,369.03 622.66,361.22" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e9" class="nodal-edge nodal-flow nodal-flow-forward">
-<path d="M 694.3 253.0 L 694.3 262.0 Q 694.3 271.0 692.2 279.8 L 687.4 299.6 Q 685.3 308.4 685.3 317.4 L 685.3 326.4" fill="none" stroke="#88c0d0" stroke-width="0.75" stroke-opacity="0.3"/>
-<path d="M 694.3 253.0 L 694.3 262.0 Q 694.3 271.0 692.2 279.8 L 687.4 299.6 Q 685.3 308.4 685.3 317.4 L 685.3 326.4" fill="none" stroke="#88c0d0" stroke-linejoin="round" class="nodal-flow-forward" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="2s" repeatCount="indefinite"/></path>
-<polygon class="nodal-head" points="685.3,334.8 681.4,325.4 689.2,325.4" fill="#88c0d0"/>
+<path d="M 694.26 253 L 694.26 273.18 Q 694.26 279.52 689.78 284 L 689.78 284 Q 685.3 288.48 685.3 294.82 L 685.3 326.38" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="0.75" stroke-opacity="0.3" class="nodal-line"/>
+<path d="M 694.26 253 L 694.26 273.18 Q 694.26 279.52 689.78 284 L 689.78 284 Q 685.3 288.48 685.3 294.82 L 685.3 326.38" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="2.7" stroke-dasharray="0.1 6" stroke-linecap="round" stroke-dashoffset="6.1" class="nodal-line nodal-flow-forward"><animate attributeName="stroke-dashoffset" values="6.1;0" dur="2s" repeatCount="indefinite"/></path>
+<polygon points="685.3,334.75 681.39,325.45 689.2,325.45" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e10" class="nodal-edge">
-<path d="M 685.3 395.5 L 685.3 403.1" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="685.3,411.5 681.4,402.2 689.2,402.2" fill="#88c0d0"/>
+<path d="M 685.3 395.5 L 685.3 403.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="685.3,411.5 681.39,402.2 689.2,402.2" fill="#88c0d0" class="nodal-head"/>
 </g>
+</g>
+<g class="nodal-nodes">
 <g id="ns" class="nodal-node red">
-<rect x="30.0" y="49.8" width="204.2" height="60.8" rx="6" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
-<text x="132.1" y="68.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">ResourceQuota per namespace</text>
-<text x="132.1" y="84.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">limits.nvidia.com/gpumem</text>
-<text x="132.1" y="100.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">limits.nvidia.com/gpucores</text>
+<rect x="30" y="49.75" width="204.19" height="60.75" rx="6" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
+<text x="40" y="68.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">ResourceQuota per namespace</text>
+<text x="40" y="84.35" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">limits.nvidia.com/gpumem</text>
+<text x="40" y="100.6" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">limits.nvidia.com/gpucores</text>
 </g>
 <g id="pod" class="nodal-node red">
-<rect x="258.2" y="49.8" width="150.0" height="60.8" rx="6" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
-<text x="333.2" y="68.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">1  tenant pod</text>
-<text x="333.2" y="84.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">nvidia.com/gpu</text>
-<text x="333.2" y="100.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">+ gpumem + gpucores</text>
+<rect x="258.19" y="49.75" width="150.05" height="60.75" rx="6" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
+<text x="268.19" y="68.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">1  tenant pod</text>
+<text x="268.19" y="84.35" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">nvidia.com/gpu</text>
+<text x="268.19" y="100.6" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">+ gpumem + gpucores</text>
 </g>
 <g id="dra" class="nodal-node cyan">
-<rect x="272.8" y="192.2" width="120.8" height="60.8" rx="6" fill="#425360" stroke="#88c0d0" stroke-width="1.5" stroke-dasharray="5,3"/>
-<text x="333.2" y="210.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">HAMi-DRA (later)</text>
-<text x="333.2" y="226.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">ResourceClaims</text>
-<text x="333.2" y="243.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">K8s 1.34+</text>
+<rect x="272.82" y="192.25" width="120.78" height="60.75" rx="6" fill="#425360" stroke="#88c0d0" stroke-width="1.5" stroke-dasharray="5,3"/>
+<text x="282.82" y="210.6" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">HAMi-DRA (later)</text>
+<text x="282.82" y="226.85" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">ResourceClaims</text>
+<text x="282.82" y="243.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">K8s 1.34+</text>
 </g>
 <g id="wh" class="nodal-node cyan">
-<rect x="411.6" y="192.2" width="163.3" height="60.8" rx="6" fill="#425360" stroke="#88c0d0" stroke-width="1.5"/>
-<text x="493.2" y="210.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">2  webhook vgpu.hami.io</text>
-<text x="493.2" y="226.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">sets schedulerName:</text>
-<text x="493.2" y="243.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">hami-scheduler</text>
+<rect x="411.6" y="192.25" width="163.27" height="60.75" rx="6" fill="#425360" stroke="#88c0d0" stroke-width="1.5"/>
+<text x="421.6" y="210.6" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">2  webhook vgpu.hami.io</text>
+<text x="421.6" y="226.85" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">sets schedulerName:</text>
+<text x="421.6" y="243.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">hami-scheduler</text>
 </g>
 <g id="sch" class="nodal-node cyan">
-<rect x="592.9" y="192.2" width="184.8" height="60.8" rx="6" fill="#425360" stroke="#88c0d0" stroke-width="1.5" stroke-opacity="1"><animate attributeName="stroke-opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="1.5;3.3;1.5" dur="1.6s" repeatCount="indefinite"/></rect>
-<text x="685.3" y="210.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">3  hami-scheduler pod :9395</text>
-<text x="685.3" y="226.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">kube-scheduler</text>
-<text x="685.3" y="243.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">+ vgpu-scheduler-extender</text>
+<rect x="592.87" y="192.25" width="184.78" height="60.75" rx="6" fill="#425360" stroke="#88c0d0" stroke-width="1.5" stroke-opacity="1"><animate attributeName="stroke-opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/><animate attributeName="stroke-width" values="1.5;3.3;1.5" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="602.87" y="210.6" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">3  hami-scheduler pod :9395</text>
+<text x="602.87" y="226.85" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">kube-scheduler</text>
+<text x="602.87" y="243.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">+ vgpu-scheduler-extender</text>
 </g>
 <g id="bs" class="nodal-node">
-<rect x="795.6" y="192.2" width="98.0" height="60.8" rx="6" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5" stroke-dasharray="5,3"/>
-<text x="844.6" y="210.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">optional brain</text>
-<text x="844.6" y="226.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">Volcano</text>
-<text x="844.6" y="243.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">Kueue / KAI</text>
+<rect x="795.65" y="192.25" width="97.95" height="60.75" rx="6" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5" stroke-dasharray="5,3"/>
+<text x="805.65" y="210.6" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">optional brain</text>
+<text x="805.65" y="226.85" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">Volcano</text>
+<text x="805.65" y="243.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">Kueue / KAI</text>
 </g>
 <g id="nv" class="nodal-node green">
-<rect x="92.6" y="334.8" width="223.2" height="60.8" rx="6" fill="#485251" stroke="#a3be8c" stroke-width="1.5"/>
-<text x="204.2" y="353.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">4  NVIDIA nodes, gpu=on</text>
-<text x="204.2" y="369.4" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">hami-device-plugin DaemonSet</text>
-<text x="204.2" y="385.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">device-plugin + vgpu-monitor :9394</text>
+<rect x="45.51" y="334.75" width="223.19" height="60.75" rx="6" fill="#485251" stroke="#a3be8c" stroke-width="1.5"/>
+<text x="55.51" y="353.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">4  NVIDIA nodes, gpu=on</text>
+<text x="55.51" y="369.35" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">hami-device-plugin DaemonSet</text>
+<text x="55.51" y="385.6" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">device-plugin + vgpu-monitor :9394</text>
 </g>
 <g id="core" class="nodal-node yellow">
-<rect x="107.7" y="411.5" width="192.9" height="60.8" rx="6" fill="#585550" stroke="#ebcb8b" stroke-width="1.5"/>
-<text x="204.2" y="429.9" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">5  libvgpu.so in the pod</text>
-<text x="204.2" y="446.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">via /etc/ld.so.preload</text>
-<text x="204.2" y="462.4" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">caps memory, paces compute</text>
+<rect x="60.67" y="411.5" width="192.88" height="60.75" rx="6" fill="#585550" stroke="#ebcb8b" stroke-width="1.5"/>
+<text x="70.67" y="429.85" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">5  libvgpu.so in the pod</text>
+<text x="70.67" y="446.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">via /etc/ld.so.preload</text>
+<text x="70.67" y="462.35" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">caps memory, paces compute</text>
 </g>
 <g id="oth" class="nodal-node green">
-<rect x="353.8" y="411.5" width="179.1" height="60.8" rx="6" fill="#485251" stroke="#a3be8c" stroke-width="1.5"/>
-<text x="443.4" y="429.9" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">Ascend / Kunlunxin / Hygon</text>
-<text x="443.4" y="446.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">own limiter: vNPU-Core,</text>
-<text x="443.4" y="462.4" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">vXPU, vDCU</text>
+<rect x="306.74" y="411.5" width="179.11" height="60.75" rx="6" fill="#485251" stroke="#a3be8c" stroke-width="1.5"/>
+<text x="316.74" y="429.85" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">Ascend / Kunlunxin / Hygon</text>
+<text x="316.74" y="446.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">own limiter: vNPU-Core,</text>
+<text x="316.74" y="462.35" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">vXPU, vDCU</text>
 </g>
 <g id="prom" class="nodal-node">
-<rect x="632.0" y="334.8" width="106.7" height="60.8" rx="6" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
-<text x="685.3" y="353.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">6  Prometheus</text>
-<text x="685.3" y="369.4" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">:9395 reserved</text>
-<text x="685.3" y="385.6" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">:9394 used</text>
+<rect x="631.96" y="334.75" width="106.67" height="60.75" rx="6" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
+<text x="641.96" y="353.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">6  Prometheus</text>
+<text x="641.96" y="369.35" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">:9395 reserved</text>
+<text x="641.96" y="385.6" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">:9394 used</text>
 </g>
 <g id="out" class="nodal-node">
-<rect x="611.0" y="411.5" width="148.7" height="60.8" rx="6" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
-<text x="685.3" y="429.9" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">allocation vs utilization</text>
-<text x="685.3" y="446.1" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">KEDA scaling</text>
-<text x="685.3" y="462.4" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal" fill="#eceff4">metering, billing</text>
+<rect x="610.96" y="411.5" width="148.67" height="60.75" rx="6" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
+<text x="620.96" y="429.85" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">allocation vs utilization</text>
+<text x="620.96" y="446.1" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">KEDA scaling</text>
+<text x="620.96" y="462.35" text-anchor="start" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="13" font-weight="normal" font-style="normal">metering, billing</text>
+</g>
 </g>
 </svg>

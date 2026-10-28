@@ -1,50 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="592" height="348" viewBox="0 0 592.0 347.5" class="nodal">
-<rect x="0" y="0" width="592.0" height="347.5" fill="#fdf6e3"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="592" height="348" viewBox="0 0 592 347.5" class="nodal">
+<rect x="0" y="0" width="592" height="347.5" fill="#fdf6e3"/>
+<g class="nodal-groups">
+
+</g>
+<g class="nodal-edges">
 <g id="e0" class="nodal-edge accent">
-<path d="M 100.0 137.0 L 100.0 159.0 Q 100.0 165.0 106.0 165.0 L 290.0 165.0 Q 296.0 165.0 296.0 171.0 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="296.0,193.0 292.1,183.7 299.9,183.7" fill="#268bd2"/>
+<path d="M 100 137 L 100 159 Q 100 165 106 165 L 290 165 Q 296 165 296 171 L 296 184.63" fill="none" stroke="#268bd2" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="296,193 292.09,183.7 299.91,183.7" fill="#268bd2" class="nodal-head"/>
 </g>
 <g id="e1" class="nodal-edge accent">
-<path d="M 296.0 128.2 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="296.0,193.0 292.1,183.7 299.9,183.7" fill="#268bd2"/>
+<path d="M 296 128.25 L 296 184.63" fill="none" stroke="#268bd2" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="296,193 292.09,183.7 299.91,183.7" fill="#268bd2" class="nodal-head"/>
 </g>
 <g id="e2" class="nodal-edge accent">
-<path d="M 492.0 128.2 L 492.0 159.0 Q 492.0 165.0 486.0 165.0 L 302.0 165.0 Q 296.0 165.0 296.0 171.0 L 296.0 184.6" fill="none" stroke="#268bd2" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="296.0,193.0 292.1,183.7 299.9,183.7" fill="#268bd2"/>
+<path d="M 492 128.25 L 492 159 Q 492 165 486 165 L 302 165 Q 296 165 296 171 L 296 184.63" fill="none" stroke="#268bd2" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="296,193 292.09,183.7 299.91,183.7" fill="#268bd2" class="nodal-head"/>
 </g>
+</g>
+<g class="nodal-nodes">
 <g id="Animal" class="nodal-node">
-<rect x="212.0" y="193.0" width="168.0" height="138.5" rx="6" fill="#eee8d5" stroke="#93a1a1" stroke-width="1.5"/>
-<text x="296.0" y="214.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">Animal</text>
-<text x="296.0" y="231.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">──────────</text>
-<text x="296.0" y="249.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+int age</text>
-<text x="296.0" y="266.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+String gender</text>
-<text x="296.0" y="284.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">──────────</text>
-<text x="296.0" y="301.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+isMammal()</text>
-<text x="296.0" y="319.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+mate()</text>
+<rect x="212" y="193" width="168" height="138.5" rx="6" fill="#eee8d5" stroke="#93a1a1" stroke-width="1.5"/>
+<text x="226" y="214.3" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Animal</text>
+<text x="226" y="231.8" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">──────────</text>
+<text x="226" y="249.3" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+int age</text>
+<text x="226" y="266.8" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+String gender</text>
+<text x="226" y="284.3" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">──────────</text>
+<text x="226" y="301.8" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+isMammal()</text>
+<text x="226" y="319.3" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+mate()</text>
 </g>
 <g id="Duck" class="nodal-node">
-<rect x="16.0" y="16.0" width="168.0" height="121.0" rx="6" fill="#eee8d5" stroke="#93a1a1" stroke-width="1.5"/>
-<text x="100.0" y="37.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">Duck</text>
-<text x="100.0" y="54.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">──────────</text>
-<text x="100.0" y="72.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+String beakColor</text>
-<text x="100.0" y="89.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">──────────</text>
-<text x="100.0" y="107.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+swim()</text>
-<text x="100.0" y="124.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+quack()</text>
+<rect x="16" y="16" width="168" height="121" rx="6" fill="#eee8d5" stroke="#93a1a1" stroke-width="1.5"/>
+<text x="30" y="37.3" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Duck</text>
+<text x="30" y="54.8" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">──────────</text>
+<text x="30" y="72.3" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+String beakColor</text>
+<text x="30" y="89.8" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">──────────</text>
+<text x="30" y="107.3" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+swim()</text>
+<text x="30" y="124.8" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+quack()</text>
 </g>
 <g id="Fish" class="nodal-node">
-<rect x="212.0" y="24.8" width="168.0" height="103.5" rx="6" fill="#eee8d5" stroke="#93a1a1" stroke-width="1.5"/>
-<text x="296.0" y="46.0" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">Fish</text>
-<text x="296.0" y="63.5" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">──────────</text>
-<text x="296.0" y="81.0" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">-int sizeInFeet</text>
-<text x="296.0" y="98.5" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">──────────</text>
-<text x="296.0" y="116.0" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">-canEat()</text>
+<rect x="212" y="24.75" width="168" height="103.5" rx="6" fill="#eee8d5" stroke="#93a1a1" stroke-width="1.5"/>
+<text x="226" y="46.05" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Fish</text>
+<text x="226" y="63.55" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">──────────</text>
+<text x="226" y="81.05" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">-int sizeInFeet</text>
+<text x="226" y="98.55" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">──────────</text>
+<text x="226" y="116.05" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">-canEat()</text>
 </g>
 <g id="Zebra" class="nodal-node">
-<rect x="408.0" y="24.8" width="168.0" height="103.5" rx="6" fill="#eee8d5" stroke="#93a1a1" stroke-width="1.5"/>
-<text x="492.0" y="46.0" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">Zebra</text>
-<text x="492.0" y="63.5" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">──────────</text>
-<text x="492.0" y="81.0" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+bool is_wild</text>
-<text x="492.0" y="98.5" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">──────────</text>
-<text x="492.0" y="116.0" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#073642">+run()</text>
+<rect x="408" y="24.75" width="168" height="103.5" rx="6" fill="#eee8d5" stroke="#93a1a1" stroke-width="1.5"/>
+<text x="422" y="46.05" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Zebra</text>
+<text x="422" y="63.55" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">──────────</text>
+<text x="422" y="81.05" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+bool is_wild</text>
+<text x="422" y="98.55" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">──────────</text>
+<text x="422" y="116.05" text-anchor="start" fill="#073642" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">+run()</text>
+</g>
 </g>
 </svg>

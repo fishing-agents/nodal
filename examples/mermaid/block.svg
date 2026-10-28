@@ -1,47 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="514" height="227" viewBox="0 0 514.0 227.0" class="nodal">
-<rect x="0" y="0" width="514.0" height="227.0" fill="#282828"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="514" height="227" viewBox="0 0 513.97 227" class="nodal">
+<rect x="0" y="0" width="513.97" height="227" fill="#282828"/>
+<g class="nodal-groups">
 <g id="f" class="nodal-group">
-<rect x="357.3" y="128.5" width="140.7" height="82.5" rx="10" fill="#312f2e" stroke="#665c54" stroke-width="1"/>
-<text x="371.3" y="153.9" text-anchor="start" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal" fill="#a89984">F (nested block)</text>
+<rect x="357.31" y="128.5" width="140.66" height="82.5" rx="10" fill="#312f2e" stroke="#665c54" stroke-width="1"/>
+<text x="371.31" y="153.9" text-anchor="start" fill="#a89984" font-family='"DejaVu Sans", sans-serif' font-size="12" font-weight="bold" font-style="normal">F (nested block)</text>
 </g>
+</g>
+<g class="nodal-edges">
 <g id="e0" class="nodal-edge">
-<path d="M 86.3 74.0 L 86.3 132.9" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="86.3,141.3 82.4,132.0 90.2,132.0" fill="#a89984"/>
+<path d="M 86.33 74 L 86.33 132.91" fill="none" stroke="#a89984" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="86.33,141.28 82.42,131.97 90.23,131.97" fill="#a89984" class="nodal-head"/>
 </g>
 <g id="e1" class="nodal-edge">
-<path d="M 257.0 74.0 L 257.0 144.6" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="257.0,153.0 253.1,143.7 260.9,143.7" fill="#a89984"/>
+<path d="M 256.98 74 L 256.98 144.63" fill="none" stroke="#a89984" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="256.98,153 253.08,143.7 260.89,143.7" fill="#a89984" class="nodal-head"/>
 </g>
 <g id="e2" class="nodal-edge">
-<path d="M 427.6 74.4 L 427.6 120.1" fill="none" stroke="#a89984" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="427.6,128.5 423.7,119.2 431.5,119.2" fill="#a89984"/>
+<path d="M 427.64 74.4 L 427.64 120.13" fill="none" stroke="#a89984" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="427.64,128.5 423.73,119.2 431.55,119.2" fill="#a89984" class="nodal-head"/>
 </g>
+</g>
+<g class="nodal-nodes">
 <g id="a" class="nodal-node yellow">
-<rect x="66.3" y="40.5" width="40.0" height="33.5" rx="6" fill="#56492a" stroke="#fabd2f" stroke-width="1.5"/>
-<text x="86.3" y="61.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#ebdbb2">A</text>
+<rect x="66.33" y="40.5" width="40" height="33.5" rx="6" fill="#56492a" stroke="#fabd2f" stroke-width="1.5"/>
+<text x="86.33" y="61.8" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">A</text>
 </g>
 <g id="b" class="nodal-node">
-<rect x="197.0" y="40.5" width="120.0" height="33.5" rx="6" fill="#3c3836" stroke="#665c54" stroke-width="1.5"/>
-<text x="257.0" y="61.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#ebdbb2">B wide</text>
+<rect x="196.98" y="40.5" width="120" height="33.5" rx="6" fill="#3c3836" stroke="#665c54" stroke-width="1.5"/>
+<text x="256.98" y="61.8" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">B wide</text>
 </g>
 <g id="c" class="nodal-node red">
-<ellipse cx="427.6" cy="57.2" rx="20.0" ry="17.1" fill="#562f2b" stroke="#fb4934" stroke-width="1.5"/>
-<text x="427.6" y="61.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#ebdbb2">C</text>
+<ellipse cx="427.64" cy="57.25" rx="20" ry="17.15" fill="#562f2b" stroke="#fb4934" stroke-width="1.5"/>
+<text x="427.64" y="61.8" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">C</text>
 </g>
 <g id="d" class="nodal-node">
-<polygon points="86.3,141.3 116.8,169.8 86.3,198.2 55.8,169.8" fill="#3c3836" stroke="#665c54" stroke-width="1.5"/>
-<text x="86.3" y="174.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#ebdbb2">D</text>
+<polygon points="86.33,141.28 116.82,169.75 86.33,198.22 55.84,169.75" fill="#3c3836" stroke="#665c54" stroke-width="1.5"/>
+<text x="86.33" y="174.3" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">D</text>
 </g>
 <g id="e" class="nodal-node green">
-<rect x="237.0" y="153.0" width="40.0" height="33.5" rx="6" fill="#484828" stroke="#b8bb26" stroke-width="1.5"/>
-<text x="257.0" y="174.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#ebdbb2">E</text>
+<rect x="236.98" y="153" width="40" height="33.5" rx="6" fill="#484828" stroke="#b8bb26" stroke-width="1.5"/>
+<text x="256.98" y="174.3" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">E</text>
 </g>
 <g id="f1" class="nodal-node">
-<rect x="371.3" y="163.5" width="44.3" height="33.5" rx="6" fill="#3c3836" stroke="#665c54" stroke-width="1.5"/>
-<text x="393.5" y="184.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#ebdbb2">F1</text>
+<rect x="371.31" y="163.5" width="44.33" height="33.5" rx="6" fill="#3c3836" stroke="#665c54" stroke-width="1.5"/>
+<text x="393.48" y="184.8" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">F1</text>
 </g>
 <g id="f2" class="nodal-node">
-<rect x="439.6" y="163.5" width="44.3" height="33.5" rx="6" fill="#3c3836" stroke="#665c54" stroke-width="1.5"/>
-<text x="461.8" y="184.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#ebdbb2">F2</text>
+<rect x="439.64" y="163.5" width="44.33" height="33.5" rx="6" fill="#3c3836" stroke="#665c54" stroke-width="1.5"/>
+<text x="461.8" y="184.8" text-anchor="middle" fill="#ebdbb2" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">F2</text>
+</g>
 </g>
 </svg>

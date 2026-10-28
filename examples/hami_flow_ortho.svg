@@ -1,104 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1058" height="457" viewBox="0 0 1057.6 456.5" class="nodal">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1058" height="457" viewBox="0 0 1057.57 456.55" class="nodal">
 <defs><filter id="nodal-shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-opacity="0.18"/></filter></defs>
-<rect x="0" y="0" width="1057.6" height="456.5" fill="#ffffff"/>
+<rect x="0" y="0" width="1057.57" height="456.55" fill="#ffffff"/>
+<g class="nodal-groups">
 <g id="cp" class="nodal-group">
-<rect x="169.5" y="179.0" width="161.6" height="261.5" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 3"/>
-<text x="183.5" y="204.4" text-anchor="start" font-family='"DejaVu Sans"' font-size="12" font-weight="bold" font-style="normal" fill="#374151">Control plane</text>
+<rect x="169.52" y="179.05" width="161.61" height="261.5" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="183.52" y="204.45" text-anchor="start" fill="#374151" font-family='"DejaVu Sans"' font-size="12" font-weight="bold" font-style="normal">Control plane</text>
 </g>
 <g id="nodes" class="nodal-group">
-<rect x="401.1" y="134.0" width="182.0" height="155.0" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 3"/>
-<text x="415.1" y="159.4" text-anchor="start" font-family='"DejaVu Sans"' font-size="12" font-weight="bold" font-style="normal" fill="#374151">GPU nodes</text>
+<rect x="401.12" y="133.97" width="182" height="155" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="415.12" y="159.37" text-anchor="start" fill="#374151" font-family='"DejaVu Sans"' font-size="12" font-weight="bold" font-style="normal">GPU nodes</text>
 </g>
 <g id="mon" class="nodal-group">
-<rect x="653.1" y="16.0" width="388.4" height="298.1" rx="10" fill="#fff7ed" stroke="#fdba74" stroke-width="1" stroke-dasharray="4 3"/>
-<text x="667.1" y="41.4" text-anchor="start" font-family='"DejaVu Sans"' font-size="12" font-weight="bold" font-style="normal" fill="#374151">Observability</text>
+<rect x="653.12" y="16" width="388.45" height="298.13" rx="10" fill="#fff7ed" stroke="#fdba74" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="667.12" y="41.4" text-anchor="start" fill="#374151" font-family='"DejaVu Sans"' font-size="12" font-weight="bold" font-style="normal">Observability</text>
 </g>
+</g>
+<g class="nodal-edges">
 <g id="e0" class="nodal-edge">
-<path d="M 250.3 247.5 L 250.3 295.2" fill="none" stroke="#4b5563" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="250.3,303.5 246.4,294.2 254.2,294.2" fill="#4b5563"/>
+<path d="M 250.32 247.55 L 250.32 295.18" fill="none" stroke="#4b5563" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="250.32,303.55 246.41,294.25 254.23,294.25" fill="#4b5563" class="nodal-head"/>
 </g>
 <g id="e1" class="nodal-edge">
-<path d="M 250.3 337.0 L 250.3 384.7" fill="none" stroke="#4b5563" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="250.3,393.0 246.4,383.7 254.2,383.7" fill="#4b5563"/>
+<path d="M 250.32 337.05 L 250.32 384.68" fill="none" stroke="#4b5563" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="250.32,393.05 246.41,383.75 254.23,383.75" fill="#4b5563" class="nodal-head"/>
 </g>
 <g id="e2" class="nodal-edge">
-<path d="M 99.5 230.8 L 181.7 230.8" fill="none" stroke="#4b5563" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="190.1,230.8 180.8,234.7 180.8,226.9" fill="#4b5563"/>
-<rect x="110.7" y="222.9" width="59.8" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
-<text x="140.6" y="234.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="11" font-weight="normal" font-style="normal" fill="#374151">submit pod</text>
+<path d="M 99.52 230.8 L 181.69 230.8" fill="none" stroke="#4b5563" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="190.06,230.8 180.76,234.71 180.76,226.89" fill="#4b5563" class="nodal-head"/>
+<rect x="110.72" y="222.92" width="59.77" height="15.75" rx="3" fill="#ffffff" fill-opacity="0.9" class="nodal-label-bg"/>
+<text x="140.6" y="234.37" text-anchor="middle" fill="#374151" font-family='"DejaVu Sans"' font-size="11" font-weight="normal" font-style="normal">submit pod</text>
 </g>
 <g id="e3" class="nodal-edge">
-<path d="M 318.9 230.8 L 379.8 230.8 Q 387.8 230.8 387.8 238.8 L 387.8 331.7 Q 387.8 339.7 395.8 339.7 L 456.7 339.7" fill="none" stroke="#4b5563" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="4 4"/>
-<polygon class="nodal-head" points="465.0,339.7 455.7,343.6 455.7,335.8" fill="#4b5563"/>
-<polygon class="nodal-head" points="310.6,230.8 319.9,226.9 319.9,234.7" fill="#4b5563"/>
+<path d="M 318.95 230.8 L 390.08 230.8 Q 398.08 230.8 398.08 238.8 L 398.08 331.72 Q 398.08 339.72 406.08 339.72 L 456.66 339.72" fill="none" stroke="#4b5563" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="4 4" class="nodal-line"/>
+<polygon points="465.03,339.72 455.73,343.63 455.73,335.82" fill="#4b5563" class="nodal-head"/>
+<polygon points="310.58,230.8 319.88,226.89 319.88,234.71" fill="#4b5563" class="nodal-head"/>
 </g>
 <g id="e4" class="nodal-edge hot">
-<path d="M 317.1 409.8 L 393.7 409.8 Q 401.7 409.8 401.7 401.8 L 401.7 200.0 Q 401.7 192.0 409.7 192.0 L 486.3 192.0" fill="none" stroke="#dc2626" stroke-width="3.75" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="499.1,192.0 484.9,198.0 484.9,186.0" fill="#dc2626"/>
-<rect x="372.3" y="293.0" width="58.8" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
-<text x="401.7" y="304.5" text-anchor="middle" font-family='"DejaVu Sans"' font-size="11" font-weight="bold" font-style="normal" fill="#dc2626">bind vGPU</text>
+<path d="M 317.12 409.8 L 358.12 409.8 Q 366.12 409.8 366.12 401.8 L 366.12 199.97 Q 366.12 191.97 374.12 191.97 L 486.3 191.97" fill="none" stroke="#dc2626" stroke-linejoin="round" stroke-width="3.75" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="499.12,191.97 484.88,197.96 484.88,185.99" fill="#dc2626" class="nodal-head"/>
+<rect x="336.71" y="293.01" width="58.83" height="15.75" rx="3" fill="#ffffff" fill-opacity="0.9" class="nodal-label-bg"/>
+<text x="366.12" y="304.46" text-anchor="middle" fill="#dc2626" font-family='"DejaVu Sans"' font-size="11" font-weight="bold" font-style="normal">bind vGPU</text>
 </g>
 <g id="e5" class="nodal-edge">
-<path d="M 583.1 211.5 L 793.6 211.5" fill="none" stroke="#4b5563" stroke-width="1" stroke-linecap="butt" stroke-linejoin="round"/>
-<polyline class="nodal-head" points="792.8,214.9 801.0,211.5 792.8,208.1" fill="none" stroke="#4b5563" stroke-width="1.2" stroke-linejoin="miter"/>
-<rect x="667.7" y="203.6" width="41.4" height="15.8" rx="3" fill="#ffffff" fill-opacity="0.9"/>
-<text x="688.4" y="215.1" text-anchor="middle" font-family='"DejaVu Sans"' font-size="11" font-weight="normal" font-style="normal" fill="#374151">metrics</text>
+<path d="M 583.12 211.47 L 793.64 211.5" fill="none" stroke="#4b5563" stroke-linejoin="round" stroke-width="1" stroke-linecap="butt" class="nodal-line"/>
+<polyline points="792.82,214.95 801.02,211.5 792.82,208.06" fill="none" stroke="#4b5563" stroke-width="1.2" stroke-linejoin="miter" class="nodal-head"/>
+<rect x="667.69" y="203.61" width="41.39" height="15.75" rx="3" fill="#ffffff" fill-opacity="0.9" class="nodal-label-bg"/>
+<text x="688.38" y="215.06" text-anchor="middle" fill="#374151" font-family='"DejaVu Sans"' font-size="11" font-weight="normal" font-style="normal">metrics</text>
 </g>
+</g>
+<g class="nodal-nodes">
 <g id="user" class="nodal-node">
-
-<image x="37.8" y="200.0" width="40.0" height="40.0" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMzQxNTUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjQiLz48cGF0aCBkPSJNNCAyMWMwLTQuNCAzLjYtOCA4LThzOCAzLjYgOCA4Ii8+PC9zdmc+Cg==" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMzQxNTUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjQiLz48cGF0aCBkPSJNNCAyMWMwLTQuNCAzLjYtOCA4LThzOCAzLjYgOCA4Ii8+PC9zdmc+Cg==" preserveAspectRatio="xMidYMid meet"/>
-<text x="57.8" y="257.3" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal" fill="#111827">Data scientist</text>
+<image x="37.76" y="200.05" width="40" height="40" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMzQxNTUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjQiLz48cGF0aCBkPSJNNCAyMWMwLTQuNCAzLjYtOCA4LThzOCAzLjYgOCA4Ii8+PC9zdmc+Cg==" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMzQxNTUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjQiLz48cGF0aCBkPSJNNCAyMWMwLTQuNCAzLjYtOCA4LThzOCAzLjYgOCA4Ii8+PC9zdmc+Cg==" preserveAspectRatio="xMidYMid meet"/>
+<text x="57.76" y="257.35" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal">Data scientist</text>
 </g>
 <g id="api" class="nodal-node">
-<rect x="190.1" y="214.0" width="120.5" height="33.5" rx="8" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="250.3" y="235.3" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal" fill="#111827">kube-apiserver</text>
+<rect x="190.06" y="214.05" width="120.52" height="33.5" rx="8" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="250.32" y="235.35" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal">kube-apiserver</text>
 </g>
 <g id="hook" class="nodal-node hami">
-<rect x="186.2" y="303.5" width="128.2" height="33.5" rx="8" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="250.3" y="324.8" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="bold" font-style="normal" fill="#134e4a">HAMi webhook</text>
+<rect x="186.23" y="303.55" width="128.17" height="33.5" rx="8" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="250.32" y="324.85" text-anchor="middle" fill="#134e4a" font-family='"DejaVu Sans"' font-size="14" font-weight="bold" font-style="normal">HAMi webhook</text>
 </g>
 <g id="sched" class="nodal-node hami">
-<rect x="183.5" y="393.0" width="133.6" height="33.5" rx="16.75" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="250.3" y="414.3" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="bold" font-style="normal" fill="#134e4a">HAMi scheduler</text>
+<rect x="183.52" y="393.05" width="133.61" height="33.5" rx="16.75" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="250.32" y="414.35" text-anchor="middle" fill="#134e4a" font-family='"DejaVu Sans"' font-size="14" font-weight="bold" font-style="normal">HAMi scheduler</text>
 </g>
 <g id="g0" class="nodal-node gpu">
-<rect x="415.1" y="169.0" width="70.0" height="46.0" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="450.1" y="188.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal" fill="#111827">A100</text>
-<text x="450.1" y="203.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal" fill="#111827">80 GB</text>
+<rect x="415.12" y="168.97" width="70" height="46" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="450.12" y="188.37" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal">A100</text>
+<text x="450.12" y="203.37" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal">80 GB</text>
 </g>
 <g id="g1" class="nodal-node gpu">
-<rect x="499.1" y="169.0" width="70.0" height="46.0" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="534.1" y="188.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal" fill="#111827">A100</text>
-<text x="534.1" y="203.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal" fill="#111827">80 GB</text>
+<rect x="499.12" y="168.97" width="70" height="46" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="534.12" y="188.37" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal">A100</text>
+<text x="534.12" y="203.37" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal">80 GB</text>
 </g>
 <g id="g2" class="nodal-node gpu">
-<rect x="415.1" y="229.0" width="70.0" height="46.0" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="450.1" y="248.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal" fill="#111827">H100</text>
-<text x="450.1" y="263.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal" fill="#111827">80 GB</text>
+<rect x="415.12" y="228.97" width="70" height="46" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="450.12" y="248.37" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal">H100</text>
+<text x="450.12" y="263.37" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal">80 GB</text>
 </g>
 <g id="g3" class="nodal-node gpu">
-<rect x="499.1" y="229.0" width="70.0" height="46.0" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="534.1" y="248.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal" fill="#111827">L40S</text>
-<text x="534.1" y="263.4" text-anchor="middle" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal" fill="#111827">48 GB</text>
+<rect x="499.12" y="228.97" width="70" height="46" rx="8" fill="#eef2ff" stroke="#6366f1" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="534.12" y="248.37" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal">L40S</text>
+<text x="534.12" y="263.37" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="12" font-weight="normal" font-style="normal">48 GB</text>
 </g>
 <g id="prom" class="nodal-node">
-<ellipse cx="847.0" cy="211.5" rx="46.0" ry="46.0" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="847.0" y="216.1" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal" fill="#111827">Prometheus</text>
+<ellipse cx="847.01" cy="211.5" rx="45.99" ry="45.99" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="847.01" y="216.05" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal">Prometheus</text>
 </g>
 <g id="graf" class="nodal-node">
-<rect x="807.8" y="51.0" width="78.4" height="33.5" rx="8" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="847.0" y="72.3" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal" fill="#111827">Grafana</text>
+<rect x="807.81" y="51" width="78.39" height="33.5" rx="8" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="847.01" y="72.3" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal">Grafana</text>
 </g>
 <g id="alert" class="nodal-node">
-<rect x="915.4" y="266.6" width="112.1" height="33.5" rx="8" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="971.5" y="287.9" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal" fill="#111827">Alertmanager</text>
+<rect x="915.43" y="266.63" width="112.14" height="33.5" rx="8" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="971.5" y="287.93" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal">Alertmanager</text>
 </g>
 <g id="dash" class="nodal-node hami">
-<rect x="667.1" y="266.6" width="110.8" height="33.5" rx="8" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5" filter="url(#nodal-shadow)"/>
-<text x="722.5" y="287.9" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="bold" font-style="normal" fill="#134e4a">HAMi WebUI</text>
+<rect x="667.12" y="266.63" width="110.78" height="33.5" rx="8" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<text x="722.52" y="287.93" text-anchor="middle" fill="#134e4a" font-family='"DejaVu Sans"' font-size="14" font-weight="bold" font-style="normal">HAMi WebUI</text>
 </g>
 <g id="db" class="nodal-node">
-<path d="M465.0,323.0 A27.1,6 0 0 1 519.2,323.0 V356.5 A27.1,6 0 0 1 465.0,356.5 Z" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/><path d="M465.0,323.0 A27.1,6 0 0 0 519.2,323.0" fill="none" stroke="#475569" stroke-width="1.5"/>
-<text x="492.1" y="344.3" text-anchor="middle" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal" fill="#111827">etcd</text>
+<path d="M 465.03 322.97 A 27.09 6 0 0 1 519.22 322.97 L 519.22 356.47 A 27.09 6 0 0 1 465.03 356.47 Z" fill="#ffffff" stroke="#475569" stroke-width="1.5" filter="url(#nodal-shadow)"/>
+<path d="M 465.03 322.97 A 27.09 6 0 0 0 519.22 322.97" fill="none" stroke="#475569" stroke-width="1.5"/>
+<text x="492.12" y="344.27" text-anchor="middle" fill="#111827" font-family='"DejaVu Sans"' font-size="14" font-weight="normal" font-style="normal">etcd</text>
+</g>
 </g>
 </svg>

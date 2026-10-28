@@ -1,42 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119" height="412" viewBox="0 0 118.9 412.5" class="nodal">
-<rect x="0" y="0" width="118.9" height="412.5" fill="#2e3440"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119" height="412" viewBox="0 0 118.86 412.5" class="nodal">
+<rect x="0" y="0" width="118.86" height="412.5" fill="#2e3440"/>
+<g class="nodal-groups">
+
+</g>
+<g class="nodal-edges">
 <g id="e0" class="nodal-edge">
-<path d="M 77.1 44.0 L 77.1 91.6" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="77.1,100.0 73.2,90.7 81.1,90.7" fill="#88c0d0"/>
+<path d="M 77.15 44 L 77.15 91.63" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="77.15,100 73.24,90.7 81.05,90.7" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e1" class="nodal-edge">
-<path d="M 86.1 133.5 L 86.1 142.5 Q 86.1 151.5 88.8 160.1 L 99.4 194.8 Q 102.9 206.2 102.7 218.2 L 101.6 283.8 Q 101.5 295.8 96.1 306.5 L 82.4 334.1 Q 78.4 342.1 78.4 351.1 L 78.4 360.1" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="78.4,368.5 74.5,359.2 82.3,359.2" fill="#88c0d0"/>
+<path d="M 86.15 133.5 L 86.15 142.5 Q 86.15 151.5 88.77 160.11 L 99.36 194.77 Q 102.86 206.25 102.67 218.25 L 101.65 283.75 Q 101.46 295.75 96.12 306.5 L 82.43 334.07 Q 78.42 342.13 78.42 351.13 L 78.42 360.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="78.42,368.5 74.52,359.2 82.33,359.2" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e2" class="nodal-edge">
-<path d="M 68.1 141.9 L 68.1 153.6 Q 68.1 161.5 60.3 161.5 L 60.3 161.5 Q 52.4 161.5 52.4 169.4 L 52.4 181.1" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="52.4,189.5 48.5,180.2 56.3,180.2" fill="#88c0d0"/>
-<polygon class="nodal-head" points="68.1,133.5 72.1,142.8 64.2,142.8" fill="#88c0d0"/>
+<path d="M 68.15 141.87 L 68.15 153.64 Q 68.15 161.5 60.29 161.5 L 60.29 161.5 Q 52.43 161.5 52.43 169.36 L 52.43 181.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="52.43,189.5 48.52,180.2 56.34,180.2" fill="#88c0d0" class="nodal-head"/>
+<polygon points="68.15,133.5 72.05,142.8 64.24,142.8" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e3" class="nodal-edge">
-<path d="M 53.6 223.0 L 53.6 270.6" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="53.6,279.0 49.7,269.7 57.5,269.7" fill="#88c0d0"/>
+<path d="M 53.63 223 L 53.63 270.63" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="53.63,279 49.72,269.7 57.53,269.7" fill="#88c0d0" class="nodal-head"/>
 </g>
 <g id="e4" class="nodal-edge">
-<path d="M 54.8 312.5 L 54.8 324.5 Q 54.8 336.3 66.6 336.3 L 66.6 336.3 Q 78.4 336.3 78.4 348.1 L 78.4 360.1" fill="none" stroke="#88c0d0" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round"/>
-<polygon class="nodal-head" points="78.4,368.5 74.5,359.2 82.3,359.2" fill="#88c0d0"/>
+<path d="M 54.83 312.5 L 54.83 328.7 Q 54.83 340.5 66.62 340.5 L 68.61 340.5 Q 78.42 340.5 78.42 350.31 L 78.42 360.13" fill="none" stroke="#88c0d0" stroke-linejoin="round" stroke-width="1.5" stroke-linecap="butt" class="nodal-line"/>
+<polygon points="78.42,368.5 74.52,359.2 82.33,359.2" fill="#88c0d0" class="nodal-head"/>
 </g>
+</g>
+<g class="nodal-nodes">
 <g id="start" class="nodal-node solid">
-<ellipse cx="77.1" cy="30.0" rx="20.0" ry="14.0" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
+<ellipse cx="77.15" cy="30" rx="20" ry="14" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
 </g>
 <g id="Still" class="nodal-node">
-<rect x="51.9" y="100.0" width="50.4" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
-<text x="77.1" y="121.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#eceff4">Still</text>
+<rect x="51.93" y="100" width="50.44" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
+<text x="77.15" y="121.3" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Still</text>
 </g>
 <g id="Moving" class="nodal-node">
-<rect x="16.0" y="189.5" width="72.9" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
-<text x="52.4" y="210.8" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#eceff4">Moving</text>
+<rect x="16" y="189.5" width="72.86" height="33.5" rx="10" fill="#3b4252" stroke="#81a1c1" stroke-width="1.5"/>
+<text x="52.43" y="210.8" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Moving</text>
 </g>
 <g id="Crash" class="nodal-node red">
-<rect x="22.2" y="279.0" width="65.3" height="33.5" rx="10" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
-<text x="54.8" y="300.3" text-anchor="middle" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal" fill="#eceff4">Crash</text>
+<rect x="22.19" y="279" width="65.27" height="33.5" rx="10" fill="#4e3e49" stroke="#bf616a" stroke-width="1.5"/>
+<text x="54.83" y="300.3" text-anchor="middle" fill="#eceff4" font-family='"DejaVu Sans", sans-serif' font-size="14" font-weight="normal" font-style="normal">Crash</text>
 </g>
 <g id="stop" class="nodal-node solid">
-<ellipse cx="78.4" cy="382.5" rx="20.0" ry="14.0" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
+<ellipse cx="78.42" cy="382.5" rx="20" ry="14" fill="#eceff4" stroke="#eceff4" stroke-width="1.5"/>
+</g>
 </g>
 </svg>
